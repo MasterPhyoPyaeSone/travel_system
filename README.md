@@ -85,3 +85,25 @@ Start the server
   or
   composer run dev
 ```
+
+## 🛠 Skills
+✅ PHP / Laravel
+
+✅ JavaScript 
+
+✅ React.js, Vue.js
+
+✅ MySQL
+
+✅ HTML, CSS, Tailwind
+
+✅ Git & GitHub
+
+
+## 📫 Connect With Me
+
+
+GitHub: MasterPhyoPyaeSone
+
+Email: (phyo097800@gmail.com)
+
